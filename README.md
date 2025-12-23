@@ -16,3 +16,10 @@ Bu proje, **React Native** ve **Expo** kullanılarak geliştirilmiş bir Artır�
 1. Repo'yu klonlayın.
 2. `npm install` ile paketleri yükleyin.
 3. `npx expo start` komutunu çalıştırın ve Expo Go ile QR kodu tarayın.
+
+
+# 🚀 SpaceGameAR
+React Native ve Expo ile geliştirilmiş mobil Artırılmış Gerçeklik (AR) atış oyunu. 
+- Gerçek dünya kamerası üzerinde rastgele beliren hedefler.
+- 30 saniyelik adrenalin dolu geri sayım.
+- Modern TypeScript mimarisi.
